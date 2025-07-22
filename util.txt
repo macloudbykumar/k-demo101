@@ -1,0 +1,14 @@
+#util.txt
+
+public int add(int a , int b)
+{
+#Adding tow number
+return a+b;
+}
+
+
+public int sub(int a , int b)
+{
+#Sub tow number
+return a-b;
+}
