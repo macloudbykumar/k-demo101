@@ -5,7 +5,7 @@ on:
 
 jobs:
   hello:
-    name: Say Hello dd
+    name: Say Hello DDDDDD
     runs-on: self-hosted
 
     steps:
